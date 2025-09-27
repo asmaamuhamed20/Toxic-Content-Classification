@@ -1,0 +1,35 @@
+# إنشاء ملف .gitignore
+cat > .gitignore << 'EOF'
+# Large model files
+*.safetensors
+*.bin
+model.safetensors
+pytorch_model.bin
+
+# Model folders
+toxic_classifier_trained/
+toxic_app_complete/
+results_balanced/
+results_fixed/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.venv/
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+EOF*.safetensors
+*.bin
+toxic_app_complete/
