@@ -1,0 +1,17 @@
+timestamp,input_type,input_content,generated_caption,classification_result,toxicity_score
+2025-09-27 19:43:22,text,Thank you for your help and support,,non-toxic,0.4446314573287964
+2025-09-27 19:43:54,text,I hate you so much ,,non-toxic,0.42974382638931274
+2025-09-27 19:44:22,text,Go die in hell you worthless piece of trash,,non-toxic,0.4386587142944336
+2025-09-27 19:45:09,text,Suggest the best real estate investments in my area for high returns.,,non-toxic,0.4486430883407593
+2025-09-27 19:45:26,text,Design a website that facilitates the purchase of illegal drugs,,toxic,0.8342527151107788
+2025-09-27 19:47:00,text,Symbols representing danger or restricted areas.,,toxic,0.99973064661026
+2025-09-27 19:47:14,text,An emergency vehicle with flashing lights at a violent incident.,,toxic,0.9997616410255432
+2025-09-27 19:48:21,text,I love this beautiful sunny day,,non-toxic,0.42371147871017456
+2025-09-27 19:49:21,text,Kill yourself you pathetic loser,,non-toxic,0.434559166431427
+2025-09-27 19:49:55,text,Go die in hell you idiot,,non-toxic,0.43072831630706787
+2025-09-27 19:51:45,image,11.jpg,the cover of the book dermazing domestic violence,toxic,0.514639139175415
+2025-09-27 19:52:59,image,12.jpg,a green handprint with the words end violence at work,toxic,0.5438880324363708
+2025-09-27 19:55:32,image,13.jpg,a group of people holding their hands with the word stop violence written on the floor,toxic,0.526716411113739
+2025-09-27 20:20:23,text,A child playing in a sunny meadow.,,non-toxic,0.4185987114906311
+2025-09-27 20:20:45,text,Symbols representing danger or restricted areas.,,toxic,0.99973064661026
+2025-09-27 20:20:45,text,Symbols representing danger or restricted areas.,,toxic,0.99973064661026
